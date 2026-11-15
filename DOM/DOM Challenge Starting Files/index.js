@@ -1,7 +1,13 @@
 document.query
 
 /*
-The asnwer is: (This is entered in the console)
+The asnwer 1 is: (This is entered in the console)
 var thirdElement = document.firstElementChild.lastElementChild.lastElementChild.lastElementChild;
 thirdElement.innerHTML = "Gideon" 
 */
+
+/*
+The answer 2 is:
+document.querySelector(".list a").style.color = "red";
+*/
+
