@@ -23,3 +23,10 @@ document.querySelector("h1").classList.add("huge"); - To add properties to it
 document.querySelector("h1").classList.remove("huge"); - To remove properties from the them.
 */
 
+/*
+Text content - HElps you to view the text in the element or selected enetity.
+setAtrribute is used to set the attribute of the code ie anything betwee  the bracjets of the element.
+setAttribute("what attribute to change", what to change to"
+)
+*/
+
